@@ -1,1 +1,8 @@
-build/*
+# Build files:
+build/
+
+# Exclude CubeMX generated code for now:
+/lib/CubeMX/*/Core/
+/lib/CubeMX/*/Drivers/
+/lib/CubeMX/*/EWARM/
+/lib/CubeMX/*/.mxproject

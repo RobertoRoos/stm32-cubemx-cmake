@@ -1,0 +1,2 @@
+if(CMAKE_CROSSCOMPILING)
+endif()
